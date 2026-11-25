@@ -1,0 +1,284 @@
+{
+ "code": "M490N",
+ "connector": "RTO-144",
+ "type": "M490N - Stereo Input Module",
+ "series": null,
+ "contacts": "10 contacts (J2), 1 contacts (J3), 22 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+   "page": 32
+  },
+  {
+   "pin": "1",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014.jpg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "H",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490N/M490N.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "Insert",
+   "designation": "JMP.6.7",
+   "from": "P2-6",
+   "to": "P2-7"
+  },
+  {
+   "function": "Insert",
+   "designation": "JMP.F.H",
+   "from": "P2-F",
+   "to": "P2-H"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M490N/M490N.rto144.json",
+  "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+  "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
+  "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC.jpg",
+  "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014.jpg"
+ ]
+}
