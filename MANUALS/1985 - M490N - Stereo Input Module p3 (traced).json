@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/ce25151adb4e0ff5-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 306.6, 421.0],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 602, "mm": 2810.6}, "curved": {"n": 51, "mm": 82.1}},
+  "text": {"rings": 45, "straight": {"n": 415, "mm": 538.3}, "curved": {"n": 104, "mm": 168.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [33.9, 407.6, 147.2, 415.1], "text": "WAAD-BECK SYBTEMS LTD"},
+   {"mm": [147.2, 232.1, 175.7, 239.0], "text": "SECT ION"},
+   {"mm": [144.0, 218.5, 185.7, 225.6], "text": "MAIN FRAME"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–307 mm across, 0–421 mm up",
+  "- **Outlines:** line 26 rings, 602 straight (2,811 mm) / 51 curved (82.1 mm); text 45 rings, 415 straight (538 mm) / 104 curved (168 mm)",
+  "- **Words (OCR):** 4 in 3 lines: WAAD-BECK SYBTEMS LTD · SECT ION · MAIN FRAME"
+ ]
+}

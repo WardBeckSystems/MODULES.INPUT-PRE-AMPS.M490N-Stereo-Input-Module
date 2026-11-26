@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 33.2, 335.5, 426.3],
+ "outlines": {
+  "line": {"rings": 1761, "straight": {"n": 14872, "mm": 23817.4}, "curved": {"n": 3917, "mm": 4912.1}},
+  "text": {"rings": 26, "straight": {"n": 132, "mm": 170.2}, "curved": {"n": 60, "mm": 78.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [261.6, 379.1, 276.6, 387.3], "w": 15.0, "h": 8.2, "from": "ring"},
+  {"mm": [266.9, 370.3, 271.4, 378.9], "w": 4.5, "h": 8.6, "from": "ring"},
+  {"mm": [271.8, 370.3, 276.6, 378.7], "w": 4.7, "h": 8.4, "from": "ring"},
+  {"mm": [327.3, 311.3, 332.4, 316.5], "w": 5.1, "h": 5.2, "from": "ring"},
+  {"mm": [326.9, 218.3, 334.2, 223.7], "w": 7.3, "h": 5.4, "from": "ring"},
+  {"mm": [316.1, 164.7, 324.1, 171.2], "w": 8.0, "h": 6.5, "from": "ring"},
+  {"mm": [316.1, 135.4, 323.8, 141.2], "w": 7.8, "h": 5.8, "from": "ring"},
+  {"mm": [286.5, 109.5, 303.3, 130.4], "w": 16.8, "h": 20.9, "from": "ring"},
+  {"mm": [315.9, 122.0, 323.8, 128.0], "w": 8.0, "h": 5.9, "from": "ring"},
+  {"mm": [315.6, 88.5, 323.4, 94.1], "w": 7.8, "h": 5.6, "from": "ring"},
+  {"mm": [170.8, 46.4, 187.7, 71.0], "w": 16.9, "h": 24.6, "from": "ring"},
+  {"mm": [233.6, 45.1, 251.1, 70.0], "w": 17.5, "h": 24.8, "from": "ring"},
+  {"mm": [263.4, 60.5, 266.2, 62.6], "w": 2.8, "h": 2.2, "from": "ring"},
+  {"mm": [225.6, 51.8, 233.2, 56.1], "w": 7.6, "h": 4.3, "from": "ring"},
+  {"mm": [251.5, 51.2, 259.3, 55.9], "w": 7.8, "h": 4.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [28.7, 396.6, 36.5, 398.5], "text": "Il. Il';t1T"},
+   {"mm": [32.6, 315.6, 44.3, 318.0], "text": "CQN' \"Ol."},
+   {"mm": [36.3, 290.2, 41.2, 292.1], "text": "\"IPU"},
+   {"mm": [34.3, 287.1, 44.0, 289.5], "text": "SH'E LD"},
+   {"mm": [42.5, 220.6, 55.5, 223.5], "text": "ll 20 11"},
+   {"mm": [42.5, 191.5, 43.8, 193.7], "text": "ll"},
+   {"mm": [62.0, 191.5, 68.4, 193.7], "text": "1....-00"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 33–426 mm up",
+  "- **Outlines:** line 1,761 rings, 14,872 straight (23,817 mm) / 3,917 curved (4,912 mm); text 26 rings, 132 straight (170 mm) / 60 curved (78.4 mm)",
+  "- **Closed boxes:** 15",
+  "- **Words (OCR):** 16 in 11 lines: Il. Il';t1T · CQN' \"Ol. · \"IPU · SH'E LD · ll 20 11 · ll · 1....-00 · ps · BS · tp · ht"
+ ]
+}

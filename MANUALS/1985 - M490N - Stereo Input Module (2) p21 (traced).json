@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 21,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p21.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "21", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 331.6, 415.4],
+ "outlines": {
+  "line": {"rings": 583, "straight": {"n": 4324, "mm": 7362.9}, "curved": {"n": 1236, "mm": 1862.5}},
+  "text": {"rings": 222, "straight": {"n": 1447, "mm": 1728.2}, "curved": {"n": 331, "mm": 543.0}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [63.9, 410.6, 68.9, 415.2], "w": 5.0, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [34.8, 409.8, 127.8, 416.1], "text": "LYBRD BECK SEtEms"},
+   {"mm": [153.1, 368.8, 172.1, 375.0], "text": "PiRts"},
+   {"mm": [145.1, 354.5, 220.9, 361.0], "text": "Aikiu upu HUUULC"},
+   {"mm": [49.0, 329.5, 119.8, 335.7], "text": "PART ue caipnich"},
+   {"mm": [232.7, 327.1, 293.6, 336.4], "text": "\"_ParT NuMBe="},
+   {"mm": [77.3, 316.7, 104.1, 321.5], "text": "Acsator"},
+   {"mm": [184.6, 315.2, 209.9, 321.5], "text": "Phlllp?"},
+   {"mm": [251.7, 34.8, 306.1, 88.3], "text": "WNBSps ,"},
+   {"mm": [233.6, 66.3, 266.6, 71.1], "text": "ROE_TIR"},
+   {"mm": [184.6, 58.3, 208.3, 64.5], "text": "pnilip"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 0–415 mm up",
+  "- **Outlines:** line 583 rings, 4,324 straight (7,363 mm) / 1,236 curved (1,862 mm); text 222 rings, 1,447 straight (1,728 mm) / 331 curved (543 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 16 in 10 lines: LYBRD BECK SEtEms · PiRts · Aikiu upu HUUULC · PART ue caipnich · \"_ParT NuMBe= · Acsator · Phlllp? · WNBSps , · ROE_TIR · pnilip"
+ ]
+}

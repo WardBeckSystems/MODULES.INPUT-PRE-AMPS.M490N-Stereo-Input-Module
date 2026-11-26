@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/ce25151adb4e0ff5-p27.svg",
+ "sheet": {
+  "number": "490-04-028",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.0, 12.3, 327.9, 410.4],
+ "outlines": {
+  "line": {"rings": 52, "straight": {"n": 1267, "mm": 5204.6}, "curved": {"n": 176, "mm": 468.3}},
+  "text": {"rings": 154, "straight": {"n": 1158, "mm": 1443.8}, "curved": {"n": 339, "mm": 531.3}},
+  "tb": {"rings": 214, "straight": {"n": 1669, "mm": 4069.7}, "curved": {"n": 460, "mm": 962.2}}
+ },
+ "circles": [
+  {"c": [57.9, 368.9], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.8, 280.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.8, 333.3], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.3, 52.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.9, 297.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.4, 117.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.7, 269.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.2, 90.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.4, 76.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [154.3, 24.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [140.1, 41.8, 167.8, 63.5], "w": 27.6, "h": 21.6, "from": "ring"},
+  {"mm": [141.4, 43.6, 166.3, 62.0], "w": 24.9, "h": 18.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [136.2, 402.4, 145.3, 406.8], "text": "WBS"},
+   {"mm": [160.4, 402.4, 172.3, 406.8], "text": "M49ON"},
+   {"mm": [245.5, 375.7, 254.1, 382.6], "text": "10"},
+   {"mm": [245.5, 329.9, 254.8, 337.3], "text": "12"},
+   {"mm": [245.5, 294.7, 254.1, 301.2], "text": "13"},
+   {"mm": [153.9, 283.0, 166.2, 287.8], "text": "MODE"},
+   {"mm": [133.4, 274.0, 140.3, 277.8], "text": "PRF"},
+   {"mm": [148.1, 274.0, 155.0, 277.8], "text": "PST"},
+   {"mm": [160.0, 257.1, 168.6, 261.5], "text": "AUX"},
+   {"mm": [164.7, 162.8, 170.6, 167.6], "text": "30"},
+   {"mm": [245.9, 118.3, 254.5, 125.3], "text": "16"},
+   {"mm": [158.9, 88.3, 167.5, 93.1], "text": "OFF"},
+   {"mm": [217.8, 54.4, 243.3, 60.9], "text": "WBS"},
+   {"mm": [249.8, 55.1, 328.0, 61.5], "text": "WARD-BECK SYSTEIS"},
+   {"mm": [258.9, 38.9, 282.6, 45.8], "text": "M49ON"},
+   {"mm": [151.3, 33.7, 157.8, 38.0], "text": "ON"},
+   {"mm": [226.7, 30.7, 256.3, 37.6], "text": "STEREO"},
+   {"mm": [258.4, 31.3, 313.3, 38.3], "text": "INPUT MODULE"},
+   {"mm": [243.3, 23.3, 301.0, 30.3], "text": "MODULE LAYOUT"},
+   {"mm": [220.6, 10.8, 265.3, 17.8], "text": "490-04-028"},
+   {"mm": [310.7, 11.2, 329.0, 18.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {
+  "mm": [129.5, 45.9, 334.7, 415.3],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M49ON", "10", "12", "13", "MODE", "PRF", "PST", "AUX", "30", "16", "OFF", "WBS", "WARD-BECK SYSTEIS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 490-04-028, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–328 mm across, 12–410 mm up",
+  "- **Outlines:** line 52 rings, 1,267 straight (5,205 mm) / 176 curved (468 mm); text 154 rings, 1,158 straight (1,444 mm) / 339 curved (531 mm); tb 214 rings, 1,669 straight (4,070 mm) / 460 curved (962 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 5.1 @ (57.9, 368.9), r 5.0 @ (57.8, 280.6), r 5.0 @ (57.8, 333.3), r 5.0 @ (58.3, 52.6)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 23 in 21 lines: WBS · M49ON · 10 · 12 · 13 · MODE · PRF · PST · AUX · 30 · 16 · OFF",
+  "- **Title block:** (130, 46)–(335, 415) mm: WBS · M49ON · 10 · 12 · 13 · MODE · PRF · PST · AUX · 30 · 16 · OFF · WBS · WARD-BECK SYSTEIS"
+ ]
+}

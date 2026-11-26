@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 35,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p35.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "35", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 20.9, 310.5, 412.8],
+ "outlines": {
+  "line": {"rings": 49, "straight": {"n": 820, "mm": 3110.0}, "curved": {"n": 157, "mm": 255.4}},
+  "text": {"rings": 77, "straight": {"n": 613, "mm": 765.1}, "curved": {"n": 191, "mm": 307.3}}
+ },
+ "circles": [{"c": [148.7, 242.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [33.5, 406.8, 78.4, 412.3], "text": "WARD-BEC"},
+   {"mm": [93.1, 406.8, 146.6, 412.3], "text": "YSTEMS LTD."},
+   {"mm": [97.4, 238.8, 122.2, 244.1], "text": "SA I-'-120"},
+   {"mm": [134.5, 238.8, 201.0, 244.1], "text": "ER EO PR EAMP LIFI ER"},
+   {"mm": [204.0, 238.4, 228.4, 244.1], "text": "ASS 18"},
+   {"mm": [251.7, 75.1, 264.5, 80.4], "text": "Iss ue"},
+   {"mm": [250.4, 67.8, 287.6, 73.3], "text": "MJ 27. 198S"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–310 mm across, 21–413 mm up",
+  "- **Outlines:** line 49 rings, 820 straight (3,110 mm) / 157 curved (255 mm); text 77 rings, 613 straight (765 mm) / 191 curved (307 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (148.7, 242.3)",
+  "- **Words (OCR):** 22 in 11 lines: WARD-BEC · YSTEMS LTD. · SA I-'-120 · ER EO PR EAMP LIFI ER · ASS 18 · Iss ue · MJ 27. 198S · ps · BS · tp · ht"
+ ]
+}

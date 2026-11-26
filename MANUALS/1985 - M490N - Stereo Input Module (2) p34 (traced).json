@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 34,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p34.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "34", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.5, 412.9],
+ "outlines": {
+  "line": {"rings": 64, "straight": {"n": 823, "mm": 3508.7}, "curved": {"n": 146, "mm": 258.8}},
+  "text": {"rings": 49, "straight": {"n": 403, "mm": 524.8}, "curved": {"n": 114, "mm": 192.5}}
+ },
+ "circles": [{"c": [164.1, 229.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [132.8, 407.0, 139.7, 412.5], "text": "LT"},
+   {"mm": [35.8, 406.8, 54.0, 412.0], "text": "WA~"},
+   {"mm": [76.2, 406.8, 86.8, 412.0], "text": "Cl<"},
+   {"mm": [95.4, 407.0, 128.9, 412.2], "text": "YSTEMS"},
+   {"mm": [113.6, 212.9, 210.3, 218.2], "text": "MOOULES AND SUBASSEMBL IES"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–413 mm up",
+  "- **Outlines:** line 64 rings, 823 straight (3,509 mm) / 146 curved (259 mm); text 49 rings, 403 straight (525 mm) / 114 curved (192 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (164.1, 229.7)",
+  "- **Words (OCR):** 12 in 9 lines: LT · WA~ · Cl< · YSTEMS · MOOULES AND SUBASSEMBL IES · ps · BS · tp · ht"
+ ]
+}

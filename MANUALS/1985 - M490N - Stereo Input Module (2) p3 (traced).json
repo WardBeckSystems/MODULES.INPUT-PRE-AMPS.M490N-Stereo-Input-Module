@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 310.5, 421.0],
+ "outlines": {
+  "line": {"rings": 77, "straight": {"n": 1139, "mm": 3601.8}, "curved": {"n": 183, "mm": 310.3}},
+  "text": {"rings": 10, "straight": {"n": 60, "mm": 103.2}, "curved": {"n": 14, "mm": 22.4}}
+ },
+ "circles": [{"c": [169.3, 235.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [47.3, 407.0, 52.2, 412.5], "text": "Fl"},
+   {"mm": [93.5, 407.0, 144.9, 412.5], "text": "YSTEMS LTD"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–421 mm up",
+  "- **Outlines:** line 77 rings, 1,139 straight (3,602 mm) / 183 curved (310 mm); text 10 rings, 60 straight (103 mm) / 14 curved (22.4 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (169.3, 235.5)",
+  "- **Words (OCR):** 7 in 6 lines: Fl · YSTEMS LTD · ps · BS · tp · ht"
+ ]
+}

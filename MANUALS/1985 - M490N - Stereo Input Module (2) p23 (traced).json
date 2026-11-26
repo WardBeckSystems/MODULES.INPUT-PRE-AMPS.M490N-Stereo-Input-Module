@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 330.1, 414.7],
+ "outlines": {
+  "line": {"rings": 464, "straight": {"n": 4062, "mm": 7338.2}, "curved": {"n": 1135, "mm": 1802.3}},
+  "text": {"rings": 441, "straight": {"n": 3365, "mm": 3820.7}, "curved": {"n": 1006, "mm": 1608.4}}
+ },
+ "circles": [
+  {"c": [69.8, 305.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [134.9, 57.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [34.8, 409.8, 129.5, 416.0], "text": "WEFD BECK ststE06"},
+   {"mm": [151.6, 368.8, 172.1, 373.6], "text": "PRT€"},
+   {"mm": [121.6, 354.5, 219.4, 361.0], "text": "Annn RTERCO TMPUT MOuuLE"},
+   {"mm": [99.3, 329.5, 127.8, 334.3], "text": "Cdckets"},
+   {"mm": [154.6, 327.7, 241.4, 334.3], "text": "ECELLhEOUS Couaouts"},
+   {"mm": [231.2, 300.3, 266.0, 309.7], "text": "MAPARL"},
+   {"mm": [88.3, 302.5, 130.8, 308.7], "text": "descriptict"},
+   {"mm": [88.3, 290.0, 119.8, 294.8], "text": "Atcntdto"},
+   {"mm": [231.9, 290.0, 260.4, 294.8], "text": "P7Cctt |"},
+   {"mm": [86.8, 267.9, 104.9, 277.3], "text": "~ic\""},
+   {"mm": [129.3, 269.4, 151.3, 275.7], "text": "Black)"},
+   {"mm": [107.3, 263.2, 129.3, 269.4], "text": "Black |"},
+   {"mm": [115.3, 242.7, 132.6, 248.9], "text": "(ack |"},
+   {"mm": [105.8, 236.4, 129.5, 242.6], "text": "lbiack /"},
+   {"mm": [107.3, 220.6, 137.3, 226.9], "text": "Blnck 'ah"},
+   {"mm": [239.9, 220.6, 277.6, 225.4], "text": "ii_BLK Ak"},
+   {"mm": [88.3, 208.1, 107.3, 212.9], "text": "Ue"},
+   {"mm": [104.1, 200.1, 149.8, 206.4], "text": "(Black/ Yeilos"},
+   {"mm": [231.9, 200.1, 280.9, 206.4], "text": "Faid1-BLK 'YEL"},
+   {"mm": [104.1, 187.6, 124.6, 192.4], "text": "anin"},
+   {"mm": [104.1, 181.1, 124.6, 185.9], "text": "Tcay"},
+   {"mm": [104.1, 174.9, 126.1, 179.7], "text": "[arde"},
+   {"mm": [176.8, 173.4, 203.6, 179.6], "text": "Diai9ht"},
+   {"mm": [231.9, 167.1, 258.6, 173.3], "text": "129-cc7]"},
+   {"mm": [102.6, 160.0, 119.2, 169.3], "text": "CFE"},
+   {"mm": [231.9, 160.8, 263.4, 167.1], "text": "FCk-CREY"},
+   {"mm": [124.6, 145.1, 145.1, 149.9], "text": "E0e"},
+   {"mm": [231.9, 145.1, 258.6, 149.9], "text": "Bralsa :"},
+   {"mm": [47.3, 141.8, 66.3, 146.6], "text": "MSA"},
+   {"mm": [231.9, 127.6, 255.6, 132.4], "text": "64L4A="},
+   {"mm": [127.8, 115.1, 148.3, 119.9], "text": "Doric"},
+   {"mm": [231.9, 115.1, 258.6, 119.9], "text": "640b5p_:"},
+   {"mm": [277.6, 58.3, 301.4, 82.0], "text": "683"},
+   {"mm": [63.0, 56.8, 100.8, 61.6], "text": "TcDmen"},
+   {"mm": [143.6, 55.1, 203.4, 59.9], "text": "rodiacemcni OarS"},
+   {"mm": [254.1, 55.1, 284.1, 61.3], "text": "~Aerilind"},
+   {"mm": [47.3, 48.8, 94.6, 53.6], "text": "mantaciurcr_"},
+   {"mm": [112.1, 48.8, 143.6, 53.6], "text": "conuinLcd"},
+   {"mm": [176.8, 48.8, 255.6, 53.6], "text": "A4ipte pecinrmance"}
+  ]
+ },
+ "dots": [{"c": [98.1, 238.8], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 0–415 mm up",
+  "- **Outlines:** line 464 rings, 4,062 straight (7,338 mm) / 1,135 curved (1,802 mm); text 441 rings, 3,365 straight (3,821 mm) / 1,006 curved (1,608 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (69.8, 305.3), r 1.7 @ (134.9, 57.8)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 47 in 39 lines: WEFD BECK ststE06 · PRT€ · Annn RTERCO TMPUT MOuuLE · Cdckets · ECELLhEOUS Couaouts · MAPARL · descriptict · Atcntdto · P7Cctt | · ~ic\" · Black) · Black |"
+ ]
+}

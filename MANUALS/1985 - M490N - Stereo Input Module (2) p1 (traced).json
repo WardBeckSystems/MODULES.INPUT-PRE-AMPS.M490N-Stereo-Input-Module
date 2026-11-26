@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.5, 424.2],
+ "outlines": {
+  "line": {"rings": 70, "straight": {"n": 985, "mm": 3728.8}, "curved": {"n": 133, "mm": 216.1}},
+  "text": {"rings": 226, "straight": {"n": 1841, "mm": 2581.1}, "curved": {"n": 360, "mm": 595.5}},
+  "tb": {"rings": 13, "straight": {"n": 103, "mm": 110.2}, "curved": {"n": 21, "mm": 30.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [47.3, 390.3, 173.2, 406.9], "text": "[\\NElS] \"\"\"OGAE \"VE"},
+   {"mm": [122.0, 400.1, 281.3, 407.5], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [231.9, 394.0, 254.3, 398.8], "text": "CNTAFlIC"},
+   {"mm": [124.6, 388.6, 130.0, 393.4], "text": "EL"},
+   {"mm": [141.6, 388.8, 150.3, 392.9], "text": "06\""},
+   {"mm": [161.7, 388.8, 172.3, 392.9], "text": "399"},
+   {"mm": [208.3, 388.8, 268.6, 392.9], "text": "T'ELE.....oNE \"'18'438-8"},
+   {"mm": [141.0, 233.0, 190.4, 245.2], "text": "M490N"},
+   {"mm": [119.0, 217.6, 215.0, 224.1], "text": "STEREO INPUT MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [214.4, 55.1, 260.6, 60.1], "text": "!:,\\ANU AL ISSUE"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [115.2, 46.4, 267.4, 416.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "CNTAFlIC", "EL", "06\"", "399", "T'ELE.....oNE \"'18'438-8", "M490N", "STEREO INPUT MODULE", "!:,\\ANU AL ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–424 mm up",
+  "- **Outlines:** line 70 rings, 985 straight (3,729 mm) / 133 curved (216 mm); text 226 rings, 1,841 straight (2,581 mm) / 360 curved (596 mm); tb 13 rings, 103 straight (110 mm) / 21 curved (30.4 mm)",
+  "- **Words (OCR):** 23 in 14 lines: [\\NElS] \"\"\"OGAE \"VE · WARD-BECK SYSTEMS LTD · CNTAFlIC · EL · 06\" · 399 · T'ELE.....oNE \"'18'438-8 · M490N · STEREO INPUT MODULE · ps · BS · !:,\\ANU AL ISSUE",
+  "- **Title block:** (115, 46)–(267, 416) mm: WARD-BECK SYSTEMS LTD · CNTAFlIC · EL · 06\" · 399 · T'ELE.....oNE \"'18'438-8 · M490N · STEREO INPUT MODULE · !:,\\ANU AL ISSUE"
+ ]
+}

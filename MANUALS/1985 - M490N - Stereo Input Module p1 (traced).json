@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ce25151adb4e0ff5-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 304.9, 424.2],
+ "outlines": {
+  "line": {"rings": 30, "straight": {"n": 571, "mm": 3079.8}, "curved": {"n": 54, "mm": 84.8}},
+  "text": {"rings": 174, "straight": {"n": 1709, "mm": 2413.4}, "curved": {"n": 384, "mm": 630.1}},
+  "tb": {"rings": 4, "straight": {"n": 88, "mm": 280.8}, "curved": {"n": 15, "mm": 32.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [121.6, 399.6, 283.3, 409.2], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [52.9, 390.8, 280.9, 405.4], "text": "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH ONTAPIO M1F 2*4"},
+   {"mm": [120.5, 389.9, 138.2, 394.7], "text": "Telex"},
+   {"mm": [141.2, 389.5, 172.5, 395.0], "text": "065-25399"},
+   {"mm": [207.5, 389.5, 280.7, 394.3], "text": "TELEPHONE; 416/438-6550"},
+   {"mm": [139.7, 233.2, 192.6, 247.1], "text": "M49ON"},
+   {"mm": [117.7, 217.6, 216.1, 226.0], "text": "STEREO INPUT MODULE"},
+   {"mm": [214.2, 55.1, 261.2, 61.5], "text": "MANUAL ISSUE"},
+   {"mm": [214.2, 41.5, 252.8, 48.4], "text": "MARCH 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [46.2, 46.4, 267.8, 418.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD",
+   "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH ONTAPIO M1F 2*4",
+   "Telex",
+   "065-25399",
+   "TELEPHONE; 416/438-6550",
+   "M49ON",
+   "STEREO INPUT MODULE",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–424 mm up",
+  "- **Outlines:** line 30 rings, 571 straight (3,080 mm) / 54 curved (84.8 mm); text 174 rings, 1,709 straight (2,413 mm) / 384 curved (630 mm); tb 4 rings, 88 straight (281 mm) / 15 curved (32.6 mm)",
+  "- **Words (OCR):** 16 in 9 lines: WARD-BECK SYSTEMS LTD · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH ONTAPIO M1F 2*4 · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M49ON · STEREO INPUT MODULE · MANUAL ISSUE · MARCH 1985",
+  "- **Title block:** (46, 46)–(268, 418) mm: WARD-BECK SYSTEMS LTD · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH ONTAPIO M1F 2*4 · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M49ON · STEREO INPUT MODULE · MANUAL ISSUE"
+ ]
+}

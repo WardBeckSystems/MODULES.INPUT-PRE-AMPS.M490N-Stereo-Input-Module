@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 11.4, 331.4, 431.4],
+ "outlines": {
+  "line": {"rings": 269, "straight": {"n": 3616, "mm": 7804.7}, "curved": {"n": 554, "mm": 797.4}},
+  "text": {"rings": 291, "straight": {"n": 2141, "mm": 2905.6}, "curved": {"n": 465, "mm": 716.4}},
+  "tb": {"rings": 8, "straight": {"n": 92, "mm": 96.1}, "curved": {"n": 28, "mm": 36.0}}
+ },
+ "circles": [
+  {"c": [42.5, 348.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [40.7, 252.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [30.8, 329.5, 45.1, 343.5], "w": 14.3, "h": 14.0, "from": "ring"},
+  {"mm": [66.7, 269.7, 80.7, 283.5], "w": 14.0, "h": 13.8, "from": "ring"},
+  {"mm": [30.4, 234.0, 44.7, 248.1], "w": 14.2, "h": 14.1, "from": "ring"},
+  {"mm": [66.7, 169.7, 80.5, 183.9], "w": 13.8, "h": 14.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [192.8, 347.0, 198.0, 352.7], "text": "Pl"},
+   {"mm": [267.3, 340.3, 282.8, 346.0], "text": "LEFT"},
+   {"mm": [206.6, 331.4, 213.7, 337.2], "text": "P2"},
+   {"mm": [256.1, 325.1, 283.3, 330.9], "text": "P2 LEFT"},
+   {"mm": [174.9, 308.3, 186.1, 314.1], "text": "AUX"},
+   {"mm": [176.4, 302.5, 184.4, 307.0], "text": "ON"},
+   {"mm": [178.1, 295.1, 184.2, 301.6], "text": ")IE"},
+   {"mm": [226.7, 294.9, 267.9, 303.1], "text": "'WIr---:-7 AUX"},
+   {"mm": [271.2, 295.6, 287.1, 301.3], "text": "LEFT"},
+   {"mm": [255.2, 272.5, 286.9, 278.2], "text": "CUE LEFT"},
+   {"mm": [272.0, 244.4, 285.2, 250.2], "text": "IGHT"},
+   {"mm": [256.1, 229.5, 287.4, 235.5], "text": "P2 RIGHT"},
+   {"mm": [255.4, 172.5, 262.5, 178.3], "text": "CU"},
+   {"mm": [271.2, 173.2, 290.0, 178.9], "text": "RIGHT"},
+   {"mm": [212.0, 163.4, 234.0, 168.5], "text": "ASS IGN"},
+   {"mm": [255.6, 145.9, 281.5, 165.4], "text": "Al ON"},
+   {"mm": [4.1, 147.9, 48.6, 161.3], "text": "rru--·-·"},
+   {"mm": [15.5, 133.6, 35.4, 151.4], "text": "_C~O:"},
+   {"mm": [199.9, 133.6, 288.7, 151.4], "text": "-.l~S~G-N-~_7 TALLY"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [217.8, 53.5, 331.4, 61.7], "text": "[VVl3sJ WARe-BECK SYSTEMS"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [262.8, 38.4, 285.6, 44.2], "text": "M490N"},
+   {"mm": [230.6, 31.1, 316.7, 36.4], "text": "STEREO INPUT MODULE"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [253.5, 22.9, 296.9, 28.2], "text": "FUNCTIONAL"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"},
+   {"mm": [217.6, 10.4, 264.9, 16.1], "text": "B490 -01 -014"},
+   {"mm": [315.9, 11.2, 321.0, 16.5], "text": "15"}
+  ]
+ },
+ "title_block": {"mm": [247.5, 45.7, 335.3, 67.2], "from": "title-block words (training set)", "text": ["ps", "[VVl3sJ WARe-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 11–431 mm up",
+  "- **Outlines:** line 269 rings, 3,616 straight (7,805 mm) / 554 curved (797 mm); text 291 rings, 2,141 straight (2,906 mm) / 465 curved (716 mm); tb 8 rings, 92 straight (96.1 mm) / 28 curved (36.0 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.0 @ (42.5, 348.4), r 2.0 @ (40.7, 252.4)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 42 in 29 lines: Pl · LEFT · P2 · P2 LEFT · AUX · ON · )IE · 'WIr---:-7 AUX · LEFT · CUE LEFT · IGHT · P2 RIGHT",
+  "- **Title block:** (248, 46)–(335, 67) mm: ps · [VVl3sJ WARe-BECK SYSTEMS · BS"
+ ]
+}

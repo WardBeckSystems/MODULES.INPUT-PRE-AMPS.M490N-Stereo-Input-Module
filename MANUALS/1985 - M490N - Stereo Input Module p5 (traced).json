@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/ce25151adb4e0ff5-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 330.1, 414.5],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 917, "mm": 3582.5}, "curved": {"n": 151, "mm": 239.8}},
+  "text": {"rings": 201, "straight": {"n": 1506, "mm": 1719.8}, "curved": {"n": 413, "mm": 647.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [137.1, 367.0, 193.7, 373.5], "text": "TECHNICAL DATA"},
+   {"mm": [115.9, 354.1, 186.1, 360.6], "text": "MLION STEREO inPuT"},
+   {"mm": [189.3, 353.0, 214.6, 360.7], "text": "MODULE"},
+   {"mm": [46.6, 326.9, 120.9, 334.9], "text": "Ambient Temperature:"},
+   {"mm": [138.4, 328.0, 145.9, 333.2], "text": "to"},
+   {"mm": [148.1, 326.9, 185.0, 333.9], "text": "60 degrees"},
+   {"mm": [187.2, 327.7, 212.7, 334.2], "text": "Celsius"},
+   {"mm": [46.6, 314.1, 86.4, 322.1], "text": "Dimensions:"},
+   {"mm": [137.5, 313.5, 218.1, 321.8], "text": "60\" wide 1L.15\" high"},
+   {"mm": [228.6, 313.5, 265.1, 321.2], "text": "6.50\" deep"},
+   {"mm": [131.1, 307.9, 155.0, 314.8], "text": "(41 Mm"},
+   {"mm": [166.5, 307.9, 190.9, 313.8], "text": "360 Mm"},
+   {"mm": [201.2, 307.7, 225.8, 314.6], "text": "165 mm"},
+   {"mm": [46.9, 295.4, 58.7, 301.8], "text": "Wei"},
+   {"mm": [57.2, 294.1, 73.0, 302.0], "text": "ght:"},
+   {"mm": [138.2, 294.7, 167.3, 301.2], "text": "Ibs 02"},
+   {"mm": [170.6, 293.6, 219.8, 301.7], "text": "(1.10 kg) net ."},
+   {"mm": [158.7, 18.4, 170.6, 24.8], "text": "1-2"}
+  ]
+ },
+ "dots": [{"c": [145.1, 410.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 0–414 mm up",
+  "- **Outlines:** line 66 rings, 917 straight (3,582 mm) / 151 curved (240 mm); text 201 rings, 1,506 straight (1,720 mm) / 413 curved (648 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 31 in 18 lines: TECHNICAL DATA · MLION STEREO inPuT · MODULE · Ambient Temperature: · to · 60 degrees · Celsius · Dimensions: · 60\" wide 1L.15\" high · 6.50\" deep · (41 Mm · 360 Mm"
+ ]
+}

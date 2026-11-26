@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module.pdf",
+ "page": 35,
+ "version": 1,
+ "trace": "_traces/ce25151adb4e0ff5-p35.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "35", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 20.9, 304.2, 412.8],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 490, "mm": 2632.0}, "curved": {"n": 50, "mm": 73.3}},
+  "text": {"rings": 86, "straight": {"n": 759, "mm": 889.7}, "curved": {"n": 247, "mm": 390.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [32.8, 407.0, 147.2, 413.9], "text": "WAAD-BeCk Bybtemb LTD;"},
+   {"mm": [96.1, 238.6, 237.9, 246.2], "text": "5A14-120 STEREO PREAMPLIFIER ASSEMBLY"},
+   {"mm": [249.8, 75.1, 274.6, 81.6], "text": "Issue #2"},
+   {"mm": [248.7, 67.1, 287.6, 75.1], "text": "May 27, 1988"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.2, 66.4, 281.3, 422.6],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BeCk Bybtemb LTD;", "5A14-120 STEREO PREAMPLIFIER ASSEMBLY", "Issue #2", "May 27, 1988"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–304 mm across, 21–413 mm up",
+  "- **Outlines:** line 21 rings, 490 straight (2,632 mm) / 50 curved (73.3 mm); text 86 rings, 759 straight (890 mm) / 247 curved (391 mm)",
+  "- **Words (OCR):** 4 in 4 lines: WAAD-BeCk Bybtemb LTD; · 5A14-120 STEREO PREAMPLIFIER ASSEMBLY · Issue #2 · May 27, 1988",
+  "- **Title block:** (26, 66)–(281, 423) mm: WAAD-BeCk Bybtemb LTD; · 5A14-120 STEREO PREAMPLIFIER ASSEMBLY · Issue #2 · May 27, 1988"
+ ]
+}

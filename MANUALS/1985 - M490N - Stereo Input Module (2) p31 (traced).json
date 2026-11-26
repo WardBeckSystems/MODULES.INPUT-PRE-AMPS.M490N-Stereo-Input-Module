@@ -1,0 +1,84 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/a6a80e7610a4b663-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "46"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.9, 329.9, 417.1],
+ "outlines": {
+  "line": {"rings": 1662, "straight": {"n": 13308, "mm": 20479.3}, "curved": {"n": 3443, "mm": 4164.0}},
+  "text": {"rings": 253, "straight": {"n": 1611, "mm": 1551.4}, "curved": {"n": 560, "mm": 749.4}},
+  "tb": {"rings": 16, "straight": {"n": 139, "mm": 165.4}, "curved": {"n": 28, "mm": 47.8}}
+ },
+ "circles": [
+  {"c": [142.1, 132.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [292.4, 35.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [13.6, 239.6, 19.6, 244.6], "w": 6.0, "h": 5.0, "from": "ring"},
+  {"mm": [1.1, 83.1, 12.1, 173.6], "w": 11.0, "h": 90.5, "from": "ring"},
+  {"mm": [12.1, 164.1, 19.6, 170.6], "w": 7.6, "h": 6.5, "from": "ring"},
+  {"mm": [12.5, 134.7, 19.9, 140.3], "w": 7.3, "h": 5.6, "from": "ring"},
+  {"mm": [12.5, 121.6, 19.6, 126.9], "w": 7.1, "h": 5.4, "from": "ring"},
+  {"mm": [12.1, 87.9, 19.6, 93.3], "w": 7.5, "h": 5.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 56,
+  "lines": [
+   {"mm": [257.8, 376.1, 277.0, 378.3], "text": "IIII' NG 8US(5"},
+   {"mm": [258.9, 378.9, 275.9, 381.3], "text": "OUTPUTS TO"},
+   {"mm": [282.8, 229.7, 286.9, 232.1], "text": "LEf"},
+   {"mm": [283.5, 226.9, 291.5, 229.3], "text": "MoNEL"},
+   {"mm": [34.5, 169.5, 45.8, 180.3], "text": "II"},
+   {"mm": [272.0, 177.9, 276.1, 180.3], "text": "..EL"},
+   {"mm": [265.3, 168.6, 274.8, 171.0], "text": "E\"(TEIl\""},
+   {"mm": [266.0, 165.8, 277.6, 168.2], "text": "COfOTIle-.."},
+   {"mm": [220.2, 98.7, 247.9, 101.5], "text": ".o.u. IlU tSTOIlS >,liE"},
+   {"mm": [220.2, 95.9, 224.5, 98.3], "text": "4IlE"},
+   {"mm": [231.7, 95.9, 277.2, 98.3], "text": "IJI: UN..US OTHEIl.. tSE SP EClF tE"},
+   {"mm": [282.8, 98.9, 291.9, 101.3], "text": "Ct TQIII"},
+   {"mm": [220.0, 82.0, 240.3, 84.4], "text": "LAST COMPOHl"},
+   {"mm": [245.7, 82.0, 264.7, 84.4], "text": "OE:S tCH.. T,QHS"},
+   {"mm": [220.4, 79.0, 246.1, 81.4], "text": ".Tf CU CRZ• OS1"},
+   {"mm": [256.1, 79.0, 268.1, 81.4], "text": "Qt .RI 16"},
+   {"mm": [281.1, 79.0, 286.5, 81.4], "text": "utO."},
+   {"mm": [94.8, 75.1, 96.9, 77.1], "text": "10"},
+   {"mm": [107.5, 75.1, 115.9, 77.1], "text": "1.COOl'4"},
+   {"mm": [100.6, 70.8, 105.4, 73.0], "text": "UK"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [214.4, 54.4, 328.4, 62.3], "text": "(VVE3SJ WARD-BECK SYSTEMS"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [260.2, 39.7, 282.4, 45.0], "text": "M490N"},
+   {"mm": [229.9, 32.0, 312.4, 37.2], "text": "STEREO INPUT MODULE"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [251.3, 23.7, 288.7, 29.0], "text": "SCHEMATIC"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"},
+   {"mm": [222.2, 11.9, 265.3, 17.2], "text": "490 -02-014"},
+   {"mm": [313.3, 11.9, 323.0, 17.6], "text": "155"}
+  ]
+ },
+ "title_block": {"mm": [244.0, 46.6, 335.0, 68.1], "from": "title-block words (training set)", "text": ["ps", "(VVE3SJ WARD-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 13–417 mm up",
+  "- **Outlines:** line 1,662 rings, 13,308 straight (20,479 mm) / 3,443 curved (4,164 mm); text 253 rings, 1,611 straight (1,551 mm) / 560 curved (749 mm); tb 16 rings, 139 straight (165 mm) / 28 curved (47.8 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.4 @ (142.1, 132.3), r 2.4 @ (292.4, 35.6)",
+  "- **Closed boxes:** 6",
+  "- **Words (OCR):** 56 in 30 lines: IIII' NG 8US(5 · OUTPUTS TO · LEf · MoNEL · II · ..EL · E\"(TEIl\" · COfOTIle-.. · .o.u. IlU tSTOIlS >,liE · 4IlE · IJI: UN..US OTHEIl.. tSE SP EClF tE · Ct TQIII",
+  "- **Title block:** (244, 47)–(335, 68) mm: ps · (VVE3SJ WARD-BECK SYSTEMS · BS"
+ ]
+}
