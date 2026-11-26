@@ -24,7 +24,7 @@ Wiki page: [M490N](../../../../PAGES/M490N.md)
 - **Title block:** (212, 46)–(335, 71) mm: WBS · WARD-BECK BYSTEMS
 - **Wiring (first pass):** 190 connected wire groups from 1,042 runs; labelled ends: 294 mm → 2102; 208 mm → 12, 2; 101 mm → Rz0; 91 mm → 788}; 82 mm → ASsign
 
-Every curve, box, word and wire group: [1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%20490-02-014%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%20490-02-014%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

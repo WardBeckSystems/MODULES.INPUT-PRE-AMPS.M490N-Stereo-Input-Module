@@ -21,7 +21,7 @@ Wiki page: [M490N](../../../../PAGES/M490N.md)
 - **Words (OCR):** 58 in 48 lines: 23 · 828 · 828 [922 · 81 · 81 · 83 · 11 · 44 · 22 82 · t0i · El · 461
 - **Title block:** (23, 46)–(335, 134) mm: PN3569 · It · 14-119 ISSUE · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M490N - 490-06-024 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%20490-06-024%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1985 - M490N - 490-06-024 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - 490-06-024 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%20490-06-024%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - M490N - 490-06-024 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

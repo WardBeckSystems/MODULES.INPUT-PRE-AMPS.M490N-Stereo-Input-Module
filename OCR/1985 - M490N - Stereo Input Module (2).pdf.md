@@ -22,7 +22,7 @@ Wiki page: [M490N](../../../../PAGES/M490N.md)
 - **Words (OCR):** 23 in 14 lines: [\NElS] """OGAE "VE · WARD-BECK SYSTEMS LTD · CNTAFlIC · EL · 06" · 399 · T'ELE.....oNE "'18'438-8 · M490N · STEREO INPUT MODULE · ps · BS · !:,\ANU AL ISSUE
 - **Title block:** (115, 46)–(267, 416) mm: WARD-BECK SYSTEMS LTD · CNTAFlIC · EL · 06" · 399 · T'ELE.....oNE "'18'438-8 · M490N · STEREO INPUT MODULE · !:,\ANU AL ISSUE
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p1 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p1 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 48 in 31 lines: WAAD AECK BYBTE06 · TaBLE_OE conTEnTS · McyC. STEPED INPuT MDDULE · Sacim · RACE · Wirrenty · Trams · Technicai · Atnari · Oaalidn Duecripinn · CiFcuit Ucecriotlor · Cennicon itcli:
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p2 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p2 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (169.3, 235.5)
 - **Words (OCR):** 7 in 6 lines: Fl · YSTEMS LTD · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p3 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p3 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 242 in 106 lines: CK YSTEMS LTO · TE HN IC AL DATA · M490N ST ERE · INPUT MODULE · In · Se ns itivity · 10 to · 10 dBm · re · 600 oh · source) · Fre quency
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p4 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p4 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 30 in 16 lines: TE CH CA DAT · M.90N ST EREO NPUT MODULE · 60 wide" · IS hi gh" · 50" deep · 360 mm · 16 mm · We hl · Ibs · 02 · 10 · net
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p5 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p5 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 7
 - **Words (OCR):** 137 in 90 lines: Laind AeCK · 3YATRF · GENEAAL · iGC . · STERFO MNpu HODULE · Hant urtide · cranna Tagt · ccauirn · Rijon  RZCCO Lrua · uis 7iring · Coneal · urgcnonicail
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p6 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p6 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 63 in 43 lines: BeCk ByBTeMe · WAAC · CENEAAL · STEREO hpuT MODLE · Alil · RAnAnste · Onunnc 4 0e · progran · Drevietea · beloro · EicnauJr · channti
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p7 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p7 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 5
 - **Words (OCR):** 224 in 107 lines: OP ERA IONAL OESC IP rON · M.9QH STEREO INPUT MODULE · Refer 10 I.lodu le Layou · 90-04 _028 · Inp · se teecc- · il es SWI · SW2 ar · mUl ua ly in te lock ed · permits the · lec io · or
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p8 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p8 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Words (OCR):** 224 in 100 lines: WARD- ECK SYSTEMS LTD · OPERATIONAL DESCR IP TI ON · !,,49ON STEREO INPUT MODULE · 81 · CUE QI · Momen · la · OPe · io of SW12 wi · !ow itch Ih Cu · ls · It
 - **Title block:** (26, 134)–(132, 423) mm: WARD- ECK SYSTEMS LTD · 81 · CUE QI · Momen · la · OPe · ll te ly ON · OFF · CHANNEL ON · Momentary ope ra io · ON · Th · _in lal · ta lu · 10 · RIGHT SENSIT IVIT · Sen it it · <;on ro · Suba ss.emb l
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p9 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p9 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (93.3, 304.2), r 2.1 @ (59.1, 238.7), r 1.2 @ (64.8, 270.7)
 - **Words (OCR):** 110 in 47 lines: EM · LT · OP ERATIO NAL OESCRIPTI ON · 49ON ST EREO INPUT MODULE · Slide Attenua to ATT con tr ols the gain of the Progra · ha nnel · 161 ATTENUATOR CUT · Anenua lO<" Cu · ...it · SW10 · aC liva le · he
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p10 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p10 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 4
 - **Words (OCR):** 326 in 152 lines: WAFI · BECK SYS EMS LT · CI RCU IT DESCRIPTIO · M490N ST EREO NP UT MODULE · Inp ut Selector · wi tc es SWI · SW2 are mu tua lly In · lock · permit the se lec io · of On · of two availab le St · es
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p11 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p11 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 294 in 154 lines: SYSTEMS LTD · CIRCUI TOESCR IP ION · M490N · ST EREO NPU MOOULE · ll · U1 · U4 · si · 1!l1 · 1!I mp lif ed · in te · le
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p12 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p12 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 1.7 @ (82.3, 289.6), r 1.7 @ (104.9, 296.1), r 1.6 @ (164.4, 157.9), r 1.6 @ (193.7, 223.5)
 - **Words (OCR):** 372 in 189 lines: CIRCUIT DESCR IP ION · M490N ST ER EO NP UT MODULE · mb er · vidu · noul fu · io · gove rn he · taWs · ual · fl · lo US · descr iption of eac
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p13 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p13 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -162,7 +162,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 2.1 @ (88.6, 67.7), r 2.1 @ (95.8, 47.9), r 1.7 @ (82.3, 191.9), r 1.6 @ (118.9, 211.4)
 - **Words (OCR):** 370 in 113 lines: CI RCUIT DESCRIPTION · M490N ST EREO INPUT MOOULE · Channel Off; · Momenlary opera li<><> of · the Channel Olf · sw,tch SW8 or · momen lary ground closure of Ihe External Cha ne Off con trol · input al P2, pin 12 will result in · negative going pulse at · U8, · in · and "clea
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p14 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p14 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 319 in 156 lines: CK SYS EM LTC · CIRCU IT DESCRIP ION · M4 90N TER EO NP UT MODULE · Cue Off · An · itio · fe · ens es · ha · he · ue cha · ls
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p15 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p15 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (112.9, 327.8)
 - **Words (OCR):** 156 in 91 lines: CI< YSTE MS LTC · M490N STEREO INP UT MOOUlE · MFG PAR NUMBER · SSO/A HJ$/ l00 · Capac lto.- · "F/3 · J9OC225MOJ$A5 · T39QA.l 0U40JS A5 · ca · F/3 · JJ · /10
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p16 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p16 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -193,7 +193,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 2
 - **Words (OCR):** 108 in 65 lines: CK YST · TD · PA RTS LIS · M490N STER EO NPUT MOOUL · OESCRIPTION · MFG PART NUMBER · cas · Ca p.ci lOt" · F/3S II · TJ9OA 10 SM03SAS · CJ6 · 10 uF /25 II
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p17 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p17 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (159.7, 356.0), r 2.1 @ (107.1, 330.0)
 - **Words (OCR):** 72 in 47 lines: MilI90N ST£"E · NPUT · OOUL · CR2 · Oi · en er lJV · lN474 3A · CR22 · lN4003 · CR23 · CR24 · OS,
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p18 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p18 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Outlines:** line 356 rings, 2,931 straight (5,835 mm) / 725 curved (1,100 mm); text 471 rings, 3,314 straight (3,710 mm) / 995 curved (1,494 mm)
 - **Words (OCR):** 65 in 42 lines: WA · STEMS LT · M490N STEREO NPUT MODUL · DESCR IPT IO · PART NUMBER · Re si stor · 4W · Pnllips · Potent iomet er · her · Res istor 1/4 · roo
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p19 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p19 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 78 in 54 lines: WA~ · YS TEMS LT · MIo90N STEREO NPUT MODUL · Retli,~tor IoW · hilips · as · 220" · roc · se · RS' · RS2 · RSJ
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p20 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p20 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 16 in 10 lines: LYBRD BECK SEtEms · PiRts · Aikiu upu HUUULC · PART ue caipnich · "_ParT NuMBe= · Acsator · Phlllp? · WNBSps , · ROE_TIR · pnilip
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p21 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p21 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 2.2 @ (114.6, 330.0), r 2.1 @ (95.1, 162.2), r 2.1 @ (203.2, 355.8), r 2.1 @ (94.9, 135.9)
 - **Words (OCR):** 115 in 64 lines: WA~ · CK YSTEMS LT · M490N STER EO NPU MOOULE · OESCRIPTION · MF · ART NUMBEA · AilS · Ae si 5t Ot'" 114W · roc · Phi lips · l16 · SO
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p22 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p22 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -255,7 +255,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 47 in 39 lines: WEFD BECK ststE06 · PRT€ · Annn RTERCO TMPUT MOuuLE · Cdckets · ECELLhEOUS Couaouts · MAPARL · descriptict · Atcntdto · P7Cctt | · ~ic" · Black) · Black |
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p23 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p23 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 22
 - **Words (OCR):** 58 in 33 lines: CONNE TO LA YOUT · M490N · TE EO NP UT MODUL · PGM lOUT · PG · lOUT LEFT · PGM · OUT. RIGHT · PGM · OUT, · PGM · OUT
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p24 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p24 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -277,7 +277,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 46; named: 12
 - **Words (OCR):** 57 in 32 lines: Fl · Cl< SYS · LTD. · P2 CONNE CT OR LAYOUT · M490N STEREO NP UT MODULE · NPUT · NP · INPUT · NP UT · IGHT · NPUT · NP UT
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p25 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p25 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 33
 - **Words (OCR):** 10 in 9 lines: 5"'1' 120 · PREAMPLIFIER · SUBASSEMBL · -r-:-..,....;::;.~~!.jl · II~ · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p26 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p26 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -299,7 +299,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 14; named: p,D; p,D
 - **Words (OCR):** 42 in 36 lines: was · 490N · CD · p,D · OlO · PRE · PST · AUX · 10 · 10 · 15 · 15
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p27 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p27 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -311,7 +311,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 65 in 48 lines: ADE · If NSE · 15 · CH ON · MODE · SE ECT · LEF · LEFT · SENS · TY · 20 · NE
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p28 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p28 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -323,7 +323,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Words (OCR):** 42 in 29 lines: Pl · LEFT · P2 · P2 LEFT · AUX · ON · )IE · 'WIr---:-7 AUX · LEFT · CUE LEFT · IGHT · P2 RIGHT
 - **Title block:** (248, 46)–(335, 67) mm: ps · [VVl3sJ WARe-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p29 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p29 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -333,7 +333,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 15
 - **Words (OCR):** 16 in 11 lines: Il. Il';t1T · CQN' "Ol. · "IPU · SH'E LD · ll 20 11 · ll · 1....-00 · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p30 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p30 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -345,7 +345,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Words (OCR):** 56 in 30 lines: IIII' NG 8US(5 · OUTPUTS TO · LEf · MoNEL · II · ..EL · E"(TEIl" · COfOTIle-.. · .o.u. IlU tSTOIlS >,liE · 4IlE · IJI: UN..US OTHEIl.. tSE SP EClF tE · Ct TQIII
 - **Title block:** (244, 47)–(335, 68) mm: ps · (VVE3SJ WARD-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p31 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p31%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p31 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p31 (traced).dxf`).
 
 ### Page 32
 
@@ -356,7 +356,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 19; named: N::sE4SJ cID; OK
 - **Words (OCR):** 120 in 101 lines: Pl · 15K 11 · _R67 · R68~ 1J' · _RSO~K 1t · -RSl~ It · SI< 11 · -R69- · li'< 1.1' · R70 · -~;'?el · -Rse!2< 11
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p32 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p32%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p32 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p32 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p32%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p32 (traced).dxf`).
 
 ### Page 33
 
@@ -368,7 +368,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 241 in 190 lines: ~~1"8~ ~SK 20 · CA2 iN-4l<t · '<IN · RI · vk · CRl iOo · IE: · c.:n:> · -R1S- · 33 · co · RS
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p33 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p33%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p33 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p33 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p33%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p33 (traced).dxf`).
 
 ### Page 34
 
@@ -378,7 +378,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (164.1, 229.7)
 - **Words (OCR):** 12 in 9 lines: LT · WA~ · Cl< · YSTEMS · MOOULES AND SUBASSEMBL IES · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p34 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p34%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p34 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p34 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p34%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p34 (traced).dxf`).
 
 ### Page 35
 
@@ -388,7 +388,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (148.7, 242.3)
 - **Words (OCR):** 22 in 11 lines: WARD-BEC · YSTEMS LTD. · SA I-'-120 · ER EO PR EAMP LIFI ER · ASS 18 · Iss ue · MJ 27. 198S · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p35 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p35%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p35 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p35 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p35%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p35 (traced).dxf`).
 
 ### Page 36
 
@@ -399,7 +399,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 6
 - **Words (OCR):** 130 in 87 lines: WAAD BECK 3TBTEME · ciaCUT dfscaipTiON · E414-120 STEREO PREAAPLIFIER ASSEMBLY · EE_|Jr Bueter Pccmolifict Bbemd < conidinb · Ainnt crarnc · Prcamdiitiers, Hooe Scicc: matrnino · cninne · Golid Ga1c #mucng_ · #Unora · 6l9ju/4 Situ Inbui · channs · dcntcal (hcerors
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p36 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p36%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p36 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p36 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p36%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p36 (traced).dxf`).
 
 ### Page 37
 
@@ -409,7 +409,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.6 @ (143.4, 256.7), r 1.6 @ (72.8, 204.5)
 - **Words (OCR):** 186 in 74 lines: WA~ · BeCK SYS TE MS · LTD. · IRCUJT DESCRIPT ION · 5A 14_120 STEREO REA MPLI FI ER ASSEMBLY · The C....e · t"C....it con · he · log · id · te · wi
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p37 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p37%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p37 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p37 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p37%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p37 (traced).dxf`).
 
 ### Page 38
 
@@ -419,7 +419,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (202.4, 129.6)
 - **Words (OCR):** 163 in 102 lines: WARD -BE CK · YBTEM LTD · SA 14_120 STEREO PREAMPL IF IER ASSEMBLY · MFG PART NUMBER · cr · Ca ci lor · 68uF /IO · TJ900686MOIOA · C2 · 68 · 22pF · Philip
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p38 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p38%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p38 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p38 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p38%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p38 (traced).dxf`).
 
 ### Page 39
 
@@ -429,7 +429,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (110.5, 330.2), r 1.7 @ (200.6, 210.5)
 - **Words (OCR):** 99 in 72 lines: WA~ · SYSTEMS LTD · SA110 20 STEREO PREA MPL 1F ER ASSEMBLY · MF PART NUMBER · CJ6 · Capac llOt'" · 22 pF · Philip · 2222-638- 10229 · CJ? · It.7pF · 2222-6 38-34479
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p39 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p39%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p39 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p39 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p39%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p39 (traced).dxf`).
 
 ### Page 40
 
@@ -440,7 +440,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 62 in 40 lines: SA14_120 STEREO PflEA MPl.IFIER ASSEMBl.Y · ED, · Yell ow · Pin Bergstic;k · 8=,"g · 65646_106 · 12 Pin Bergs lic;k · 5646-112 · Pin Bt!r gs tkk · !>646_106 · Resis to · 1/4W 5!j
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p40 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p40%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p40 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p40 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p40%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p40 (traced).dxf`).
 
 ### Page 41
 
@@ -451,7 +451,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 63 in 40 lines: Fl · STEM LTD · 14_120 STEREO PREAMPLIFI ER ASSEMBL · Resi,;"' · 4W sS · Philip · 220 · 32. · 220K · R3S · 2M' · Potent iome ter
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p41 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p41%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p41 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p41 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p41%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p41 (traced).dxf`).
 
 ### Page 42
 
@@ -462,7 +462,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 73 in 53 lines: SA 14_120 STEREO PREAMPL IFIER ASSEMBLY · eo, · Resistor 1!4W · Phi ip · eo, · aac · eo, · eo, · 220 · 220 · 220K · eao
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p42 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p42%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p42 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p42 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p42%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p42 (traced).dxf`).
 
 ### Page 43
 
@@ -471,7 +471,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Outlines:** line 191 rings, 2,143 straight (5,186 mm) / 470 curved (725 mm); text 352 rings, 2,594 straight (2,963 mm) / 686 curved (1,103 mm)
 - **Words (OCR):** 66 in 30 lines: CK SY · SA 14_ 120 STE RE PREAMPLIF ER ASSEMBL · MI SCELLAN EOUS SOCKETS · ~£...2'''-----£!Co:.!.!~!'!'...- · ~MFG PART NUMBER · Wi ng Kn · lll Ck) · 023_3220 · ce · ck · 04 0_36 20 · U2,
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p43 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p43%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p43 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p43 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p43%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p43 (traced).dxf`).
 
 ### Page 44
 
@@ -482,7 +482,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 81 in 41 lines: LEF · PR EA MP · 10 <Jam TO · <JBm · 4.7110 · t>00 · BIt> · 120 · 68 /10 · CIO · we' · 510:8
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p44 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p44%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p44 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p44 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p44%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p44 (traced).dxf`).
 
 ### Page 45
 
@@ -496,7 +496,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Title block:** (246, 46)–(335, 67) mm: ps · [VVE3SJ WARD-BECK SYSTEMS · BS
 - **Wiring (first pass):** 89 connected wire groups from 596 runs; labelled ends: 286 mm → 12; 166 mm → r--t-; 112 mm → r--t-; 53 mm → fi':'; 23 mm → [VVE3SJ
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p45 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p45%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p45 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p45 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p45%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p45 (traced).dxf`).
 
 ### Page 46
 
@@ -508,7 +508,7 @@ Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p
 - **Words (OCR):** 45 in 33 lines: IlI lOHT · SENSIT IVITY · LEFT · SENSI TIVITY · VI · 1185 · ic-e-s IIBS · 1O- O~6 · IIBS · 11-1~2 · 681 10 53/H' · 12P
 - **Title block:** (238, 46)–(328, 68) mm: ps · (WElS) WARD-BECK SYSTEMS · BS · SA14-120
 
-Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p46 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2)%20p46%20(traced).json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p46 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - Stereo Input Module (2) p46 (traced).json](../MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20%282%29%20p46%20%28traced%29.json) (the CAD file: `1985 - M490N - Stereo Input Module (2) p46 (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M490N](../../../../PAGES/M490N.md)
 - **Title block:** (214, 45)–(335, 69) mm: WBS · WARD-BECK SYSTEMB
 - **Wiring (first pass):** 89 connected wire groups from 627 runs; labelled ends: 317 mm → R68, 22k, C45, ,8/16; 309 mm → L7/10; 189 mm → 6.8/16, 328, R29, 22k; 179 mm → R67, 22k, R68, MBJJN; 133 mm → R65
 
-Every curve, box, word and wire group: [1985 - M490N - 14-120-02-001 - UNLESS OTHERWISE SPECIFIED IODES ARE (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%2014-120-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20IODES%20ARE%20(traced).json) (the CAD file: `1985 - M490N - 14-120-02-001 - UNLESS OTHERWISE SPECIFIED IODES ARE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - 14-120-02-001 - UNLESS OTHERWISE SPECIFIED IODES ARE (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%2014-120-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20IODES%20ARE%20%28traced%29.json) (the CAD file: `1985 - M490N - 14-120-02-001 - UNLESS OTHERWISE SPECIFIED IODES ARE (traced).dxf`).
 
 ## Full text
 

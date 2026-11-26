@@ -22,7 +22,7 @@ Wiki page: [M490N](../../../../PAGES/M490N.md)
 - **Words (OCR):** 128 in 118 lines: 608/10 · UIA · PREAMP · LEFT · Ook cri · CR2 · CMBJN · 4Bn · dum · C14 · 600 onm" · cra
 - **Wiring (first pass):** 104 connected wire groups from 797 runs; labelled ends: 235 mm → C52, 22/25, c54, C56; 198 mm → 608/10, Ook, cri, CR3; 175 mm → R50, CJ], RL9; 145 mm → CJi, 532, 68/10, MBJ JN; 140 mm → 68 1/2w, c54, 22/25, C56
 
-Every curve, box, word and wire group: [1985 - M490N - 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%2014-120-02-001%20-%20COMMON%20COMMON%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNA%20(traced).json) (the CAD file: `1985 - M490N - 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M490N - 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA (traced).json](../SCHEMATICS/1985%20-%20M490N%20-%2014-120-02-001%20-%20COMMON%20COMMON%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNA%20%28traced%29.json) (the CAD file: `1985 - M490N - 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA (traced).dxf`).
 
 ## Full text
 
