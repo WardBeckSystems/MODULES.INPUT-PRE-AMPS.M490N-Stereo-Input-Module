@@ -225,6 +225,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2xFbXoxTmRWY1U/view?resourcekey=0-No1bV1J_YsGgm_xmTFma-w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2xFbXoxTmRWY1U&resourcekey=0-No1bV1J_YsGgm_xmTFma-w" width="240" alt="1985 - M490N - 490-04-028 - STEREO INPUT MODULE MODULE LAYOUT.jpg"></a><br><sub>1985|18 · 490-04-028 - STEREO INPUT MODULE MODULE LAYOUT · <a href="MECHANICAL/1985%20-%20M490N%20-%20490-04-028%20-%20STEREO%20INPUT%20MODULE%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWENuX2xaUTJiM2M/view?resourcekey=0-xH0w15FDKKn7W5FP55AhfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWENuX2xaUTJiM2M&resourcekey=0-xH0w15FDKKn7W5FP55AhfA" width="240" alt="1985 - M490N - 490-04-028.jpg"></a><br><sub>1985|18 · 490-04-028 · <a href="MECHANICAL/1985%20-%20M490N%20-%20490-04-028%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M490N.stl`](MECHANICAL/M490N.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490N)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 60" wide 14.15" high 6.50" deep (41 Mm 360 Mm 165 mm /)
+- **From the drawing:** 14 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490N - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490N.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
