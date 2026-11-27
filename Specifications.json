@@ -1,0 +1,59 @@
+{
+ "module": "M490N",
+ "title": "M49ON STEREO INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M490N - P005 - 1-2.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "60\" wide 14.15\" high 6.50\" deep (41 Mm 360 Mm 165 mm /",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "Mm"
+    },
+    {
+     "value": 360,
+     "unit": "Mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "(1.10 kg) net.",
+   "quantities": [
+    {
+     "value": 1.1,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

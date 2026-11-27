@@ -13,6 +13,210 @@ Ward-Beck Systems M490N, 1985|18. Wiki page: [M490N on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 48 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1985 - M490N - P005 - 1-2.jpg](MANUALS/1985%20-%20M490N%20-%20P005%20-%201-2.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | 60&quot; wide 14.15&quot; high 6.50&quot; deep (41 Mm 360 Mm 165 mm / |
+| **Weight** | (1.10 kg) net. |
+
+## Circuit description
+
+From [1985 - M490N - Stereo Input Module (2).pdf](MANUALS/1985%20-%20M490N%20-%20Stereo%20Input%20Module%20(2).pdf) pages 11-16 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Input Selectors witches SWI and SW2 are mutually Interlock e dan d permit these lec t ion of One of two available Stereos our c es. Ana d d ition a l COntaCt i s supplied one ach switch for control purposes.
+
+Two balanc.. dins er t points are provided, o n.. for each channel. following the Input Selectors.
+
+The SA 14 -120 Sub assembly contains the I.. ft and r ighl chan n.. 1 pr.._ 1Impllf l e rs. The insert returns atP 2 pins 8 &amp; jan d P 2 pins 7 &amp;- H connect to the pr e amplifier inputs via 120 J1 pins 1 &amp; 2 and 120 J I pins 5 &amp; 6 forth e right and left channels respectively.
+
+The p r e amplifier outputs appear a t 120 J2 pin I t forth e left channel and 120J2 pin 12 fort her ig h t channel. These outputs Connect to the s t e reoa ttenua tor ATTI.
+
+UneQual input levels would be corrected by adjustment o f these n sit i v i ty trim controls R4 9 (right) lind R t l (left) located o nth e SA14_ 120 P r e amplifier Subassembl y. Them ix ing allen u a tor ATTl should be placed Int h e 15 d B &quot;i n hand &quot; posit ion to make thiS adjustment.
+
+The Stereo all enua tor inputs as mentioned a bov&quot; are derived from the left and right channel p reamp l ifier located cn the 511.14_ 120 Su bassembly.
+
+Program Chan n ei Switch
+
+Ul (r ightl and U4 (left) are analog solids tate switCh e s, s ervin gas thea c t ives witching elements o f the Program channels. The control
+
+voltage too p era te U1 and U4 is derived from the logic circuitry
+
+within the module and is coupled to Ul and U4 via CRI and C R3. to switCh the channel ON, this control voltage is int h e order of
+
++10 volts. When the control voltage drops 10 0 volts, the s w i l c h will b e OFF, resulting ina signal all.. n u a t lon o f more than 100 dB.
+
+**CIRCUI TOESCR IP T ION**
+
+Follow ing U1 and U4, I h e sign 1!l1 i s 1!I mp lif ied b y in te g r &quot; led circuits U2. U3 (right) 1!I n d US, U6 (left) 10 &quot; nominal l., v., 1 o f 0 dSm (e q uiv_ 1!IIe n i voltage). The ~ i g nal i ~ I hen routed 10 lhe Program As si g nmenl s w il che s SW4 and SW5.
+
+The left and rig hl c h &quot; n n e ls con ill in ie v elba lance con i r o is which are factory preSet to match l h e level of I he left c h&quot; n n e l tot her i g h t channel. These con i r o i. I'll ? (ri g h t) 1!I n d R54 (l e ft) should require n o fur the r adj u s l men ts.
+
+Pro gram Outputs
+
+The P Ian d P 2 Assignments w il c hes SW4 and SWS Si multan e ou sly assign b Ol h left and right channels 10 the P \ and / o r P2 P rog r &quot; m mixing buses.
+
+The left and rig h l Cue channel circuits are located on the SA \ 4_ 120 P r e amplifier Su b&quot;s s e mb ly. Refer to Ihe SA14_120 cirCuit description ford e t&quot; i l.
+
+The Cue outPuts &quot; p p e 1!lr ing &quot; t 120 J2 pins 4 &amp; 5 forth e left channel and 120 J2 pin ~ 9 &amp; 10 fort her i g h t channel feed through l heir esp e Clive summing resiS lo rs tot h emo au le cc o oecrc rPI.
+
+Au x il i&quot; r y OUlp ut ~
+
+The Auxiliary OUIP UIS are preceded b y the As si gnmenl s w il Ch SW7 and level con l r ol R2 9/R66. Prefade o r post fade 5e l&quot;&quot;, lion is made by ~w itch SW6. SW6, SW7 and R 29/ R66 control both left and right Auxiliary feeds Si multan eo u sly.
+
+The con l r o l vol lages required to operate the left and right ~o lid
+
+Slate program and Cues witches are generated with the aid of logiC
+
+circuitry u t i liZ ing integrated circuits U7 t h rough UIO.
+
+U8 is a CMOS dual f l i p_ flops ervin gas a latch to maintain the statUS of the switch e ~, once they have been s e l toe ither the ONo r
+
+lhe OFF position.
+
+A number o find i vidu ali noul fun clio n s govern the s taWs oft h e dual flip _ flop US. A description of each input fun Cl ion follows:
+
+Initial Reset:
+
+When power i sin i lially applied 10 I hes y s le m, the comb ina t_ ion of CRI2, CR I 3, CR14 and C 33 will pull down bO l h &quot;clea r&quot; inputs of US un l il C 33 is fully charged, thus ensuring I hat all solid S1a le sw i lche s are driven 10 l he OFF po si lion.
+
+Channel On;
+
+Momentary operation of Ih e Channel On s w i l c h SW9 will produce a neg alive going pulse a t US, pin 2 and &quot; pres e l &quot; Ih e As ect ion of US. All e r nat i v ei y, a momentary ground closure of the External Channel On con l ro lin p ul a t 1'2, pin N will res u ll i n Ihe same con di t ion.
+
+Once the f l i p_f lop i s &quot;pres et&quot;, i l s o u tp u lat pin 15 changes from 0 to I (approx ima tel y +10 volts). This will cause Ih e left and right Programs w i lc hes 10 switch ON. Furthermore, 05 will sal u rate r e su lli ng in the Channel On ind ica lo r lamp OS3 to switch o n. Wilh 05 saturated, the &quot; control common &quot; p o ten l i ala p pears a t thee millers of 06 and 07, depending on whelhe r Input Selectors witch SWI Or SW2 is depressed. Effectively, 06 and 07 operate similar l y to two AND gales. The c o ilecto rs o f the two transistors represent the outputS of Ihe AND gates. They appear a t 1'2, pin 13 and P. These terminals are capable o f sink ing ama x im u m current o f 4 0 mA each from a 24 volts our ce and maybe used for muting purposes.
+
+When operating the Channel On switch SW9, a sep ara te contact is closed, accessible a t 1'2, pins 15 and S. This contact maybe used for s i multan eo us &quot;m ach ines tart &quot;.
+
+Pin R o f 1'2 isis ola ted through diode CR5. When connected in parallel with the same out pUI o f other modules, it
+
+provides a con v e nie n l OR gale con fig u ration, suitable to
+
+r e s e lII. Common timer each time a Channel On bullon is
+
+depressed.
+
+Channel Off;
+
+Momenlary opera li&lt;&gt;&lt;&gt; of the Channel Olf sw,tch SW8 or momen lary ground closure of Ihe External Channel Off control input al P2, pin 12 will result ina negative going pulse at U8, pin 3 and &quot;clea r&quot; Ih e A-sec tion of U8, producing 0 v o ll sal US, pin IS. ConseQuently, the left and right solids tate Program switches wills witch OFF. a swills ree conducti&quot;'g. caus,,,,g OS3 to exlingulsh. and the muting control OUll)ut Sat P2. p l&quot;, s 13 and P will be di,....b.ed.
+
+A separa le conlact is available cn SWB a&quot;,d is acce s sio lea l P2. pin 17 and U. II maybe used for &quot;maChine 1101)&quot;.
+
+A separate Cha&quot;'nel Off lally la mo is built,nto SWS and is con &quot;,ec ted to P2, pi&quot;,s 18 and V.
+
+In addll,on to the nol&quot;tl'lal !&gt;Usn bu llon O()era ted Channel Off funcllon, both lef land ri gh l solids tate Program swi lches are swi lche(1 oH wherlev er lhe m,,, i,,,g a ttenua lor Is MOved tot h e &quot;infi nite&quot; position and swi lch 5...,10 is closed. The 0 volt po terl iial c1evelooed a t U7, pin 10 is fed directly to the IWO programs witches and causes them to switch OFF. However, the status of US. the Channel On indicator and the mUl lng controls remain unaffected by Ihis ooeration.
+
+The 8-sec lion of U8 is used to cco u-et Ih e solids tale Cue liwi lehes. The flip-flo p will changes tate eaCh time a negative going transi lion lakes place atp in 6 01 US. Conse QuM tly, with each In p ul pulse, the Cue channels willa l tern ate bet w&lt;!'en ON and OFF.
+
+ThiS change of Stale Can be b rough l about by anyone 01 three different methods:
+
+a) Momentary operation oft h e Cues witCh switCh SW12 t al.
+
+b) Momentary g r o u...d closure oft h e Ex ter...a l Cue COntrOl
+
+input a t P2. pin 11.
+
+e) Operation of I h e &quot;overp r e s s&quot; switCh 5W l l, located a t the
+
+slide erten uetorb eyond the &quot; infinite &quot; position.
+
+The ON status oft he channels is indicated by 052,
+
+which Is driven by 04.
+
+WAR C - BECK SYSTEMS LTC.
+
+M4 90N STEREO INPUT MODULE
+
+Cue Off;
+
+Ana d d itio n a l fe &quot; lure ensures that the Cue channels will &quot; Iw&quot; y s SWi lCh to OFF whenever the slide a tle nu a tor is moved onto o r away from the &quot;in finite &quot; position, regardless of their priors tate. The controls ig n a l for this action Is initial e d by the change of state o f Ih e Atl e n u &quot;t o r CUI switch SW10, There s ultanl level Change, being e i l her pos il ive or neg alive going, isp ro c e s s e d l h rough U?, U9, and UIO. The out p UI produced a l pin 4 of Ul0 willa l ways b e &quot; neg&quot; live going pulse o f approx ima tel y 500 mill is eco nds d uralion. CRll passes this pulse 10 U8, pin 8, Ihe reby &quot;c learing &quot; the BseClion oft he flip _ flop, andreS ul ting in pin 1 1of U8 to switch to (o r::~~:;esa~F FO. vol ts, int urn Switching the left and right Cue
+
+logic control in pu ls are buffered 10 guard againSI spur iou s noise and switch bounce.
+
+Power Supply Decoupl i n q
+
+The &quot; Clive dec o u plin g n e l work consist ing of 09 Ihro ugh 0 12 along with their a ssoci al ed components, decou p leo r regulate I h ein coming +/_25 volts u p ply vol lag e down 10 +/ -20 volts. CR19 and C R20 serve 10 prevent amplifier damage int h e event o f supply voltage reversal. The dec o up l ing ne l work drops the +/ _2 5 volts u p ply rails 10 &quot; nominal voltage of +/ -20 volts. 08 dec o u p les and filters the 20 V positives u p ply rai i, res u i li ng ina n OUlp UI of +t2 volts too p era te Ih e C MOS c irc ui l ry.
+
+U2, UJ, USa n d U6 are further dec ou pled to +/ -18 volts. Rl e, R1 9 and Cl 0 - C 13 dec o u ple Ihe +18 volts while RSS, R56 and C23 _ C 26 d ecou p lethe _ 18 volts. Separate o n-b oar d powers u p ply dec o u p l ing isp r ovid e don the SA14_ 120 Pre&quot;m pl ifie r Su basse mbly
+
+WAR C · S E CI&lt; SYSTEMS LTC.
+
+M490N STEREO INPUT MOOUlE
+
+**MFG PART NUMBER**
+
+Capac lto.-2.2 &quot;F/3 $ V
+
+**0.' &quot; F/3 $V**
+
+,_. l SSO/A HJ$/ l00
+
+**T J9OC225MOJ$A5**
+
+T39QA.l 0U40JS A5
+
+**TJ9QA.1OSMOJSAS**
+
+JJ &quot;F / 10 V T3 90[)3 ]6M0 1QAS
+
+47 pF 47 pF 33 uF /lO V 33 uF /l0 V
+
+Philips 2222-638-310479
+
+COO 0.1 uF /lOO V Sp.. ague ICIOX7R 104MOS08
+
+en 0.' uF /l00 V CO2 47 u F/ 40 V Philips
+
+47 uF / 40 V 2.2 u F/3$ V 0.' uF / J$ V
+
+**T390A I O4M(IJ5A$**
+
+JJ uF /l0 V uF/3 S V TJ900J ]6MO tQAS
+
+**T39OA1 05M0 35A5**
+
+JJ uF / l 0 V TJ 900J J6M0 10.4S C&lt;9 47pF 2222-6 38_34 479
+
+47 p F
+
+33 uF / lO V JJ u F / 10 V
+
+**,_. T3 9003]6M01QA S**
+
+0.' uF/ l 00 V SP.... gu e lC to X7R 1Q4MOSOB
+
+0. ' u F/ l 00 V 4 7 u F/4 0 V
+
+C20 47 u F/4 0 V m 0.' u F/35 V Kernel T39OA104M 03 $AS
+
+**C 20**
+
+C29, u F / J$ V
+
+, u F/ J5 V T390A 10 SMOJSAS
+
+C 'O u F / JS V
+
+4.7 u F/l0 V T39OB475MOIOA S
+
+C&quot; uF /3$ V TJ9OA105 M035A 5
+
+47 uF/ 2$ V TJ90E476 M02$A S ca 2.2 u F /35 V T39OC225 M035A S
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
