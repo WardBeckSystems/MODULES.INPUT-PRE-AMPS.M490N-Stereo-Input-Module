@@ -1,5 +1,5 @@
 # 1985 - M490N - 14-120-06-001 - STEREO PREAMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M490N](../../../../PAGES/M490N.md)
+Wiki page: [M490N](../)
 
 
 - **Year:** 1985 (module estimate (month))

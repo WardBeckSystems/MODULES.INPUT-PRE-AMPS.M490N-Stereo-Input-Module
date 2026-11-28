@@ -1,5 +1,5 @@
 # 1985 - M490N - 490-01-014 - OFFX ON-START TIMER RESET OFF TALLY OFF.jpg
-Wiki page: [M490N](../../../../PAGES/M490N.md)
+Wiki page: [M490N](../)
 
 
 - **Year:** 1985 (module estimate (month))

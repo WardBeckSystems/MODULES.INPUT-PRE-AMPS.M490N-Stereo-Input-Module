@@ -1,5 +1,5 @@
 # 1985 - M490N - Stereo Input Module (2).pdf
-Wiki page: [M490N](../../../../PAGES/M490N.md)
+Wiki page: [M490N](../)
 
 
 - **Year:** 1985 (module estimate (month))

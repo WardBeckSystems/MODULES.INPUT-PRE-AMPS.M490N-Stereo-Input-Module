@@ -1,5 +1,5 @@
 # 1985 - M490N - 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA.jpg
-Wiki page: [M490N](../../../../PAGES/M490N.md)
+Wiki page: [M490N](../)
 
 
 - **Year:** 1985 (module estimate (month))

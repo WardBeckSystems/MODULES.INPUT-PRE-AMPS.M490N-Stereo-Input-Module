@@ -1,5 +1,5 @@
 # 1985 - M490N - P001 - Title Page.jpg
-Wiki page: [M490N](../../../../PAGES/M490N.md)
+Wiki page: [M490N](../)
 
 
 - **Year:** 1985 (found in this file: "MARCH 1985")
